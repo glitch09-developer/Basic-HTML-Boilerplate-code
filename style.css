@@ -1,3 +1,7 @@
+*{
+background-color: #FF8020;
+}
 #tag1 {
   color: rgb(00,255,00);
+  text-align: center;
 }
